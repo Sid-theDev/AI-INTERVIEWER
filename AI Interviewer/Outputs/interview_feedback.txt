@@ -1,0 +1,15 @@
+Summarization: Siddhanth, the candidate, introduced himself as a senior data engineer with expertise in Python, SQL, and PowerBI, emphasizing his problem-solving skills and strong communication abilities. Throughout the interview, he provided detailed and comprehensive responses to the technical questions, showcasing his knowledge and experience in data engineering and visualization.
+
+Pros: Siddhanth demonstrated a strong understanding of optimizing SQL queries, creating dashboards in PowerBI, and solving complex data engineering problems. His responses were thorough, methodical, and showcased his ability to apply best practices in data-related tasks. Additionally, his example of effectively communicating with non-technical stakeholders highlighted his ability to bridge the gap between technical and non-technical audiences.
+
+Cons: While Siddhanth's responses were detailed and informative, he could have provided more specific examples or case studies to further illustrate his experience and expertise in each topic. Additionally, incorporating more personal anecdotes or challenges faced in previous roles could have added a more personalized touch to his responses.
+
+Score: 90/100
+
+Sample Answers:
+1. Python:
+- The key difference between a list and a tuple in Python is that a list is mutable, meaning its elements can be changed, added, or removed, while a tuple is immutable and cannot be altered once created. Lists are typically used when you need a collection of items that can be modified, while tuples are preferred for fixed collections that should not change. An example of when you would use a list is to store a list of user inputs that may need to be updated, while a tuple could be used to represent coordinates that should remain constant.
+2. SQL:
+- To optimize a slow-running SQL query, I would start by analyzing its execution plan to identify any performance bottlenecks. I would then consider techniques such as indexing, optimizing joins, limiting the result set by using WHERE clauses, avoiding unnecessary calculations, updating statistics, and potentially caching results to improve query performance. These strategies can help enhance the efficiency of the query and reduce its execution time.
+3. PowerBI:
+- When creating a dashboard in PowerBI to visualize data from multiple sources, I would first connect to the necessary data sources and use Power Query Editor to clean and transform the data. I would then model the data, create visualizations such as charts and graphs, arrange them on the dashboard, apply filters for interactivity, optimize performance by minimizing data volume, and design the dashboard for a user-friendly experience. Sharing and collaborating on the dashboard with stakeholders is also essential for effective data visualization and analysis.

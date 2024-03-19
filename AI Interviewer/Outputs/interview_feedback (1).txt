@@ -1,0 +1,17 @@
+Summarization: The candidate, Aashiq, introduced themselves as a full stack developer with expertise in front-end and back-end technologies. They provided detailed explanations for technical questions on HTML elements, virtual DOM in React, synchronous and asynchronous programming in Node.js, SQL and NoSQL databases, session management in PHP, RESTful API design, and coding challenges in JavaScript.
+
+Pros: Aashiq demonstrated a strong understanding of technical concepts across front-end and back-end technologies. They provided clear and concise explanations for each question, showcasing their knowledge and expertise in full stack development.
+
+Cons: Aashiq struggled to correct an error in the JavaScript function logic to sum only positive numbers from an array. They initially provided incorrect responses but eventually resolved the issue after guidance from the AI interviewer. Additionally, Aashiq could improve on providing more examples or real-world scenarios to further illustrate their technical knowledge.
+
+Score: 90/100
+
+Sample Answers:
+- Can you explain the difference between inline, block, and inline-block elements in HTML and how they affect the layout of a web page?
+Sample Answer: Inline elements do not start on a new line and only occupy space needed by their content. Block elements start on a new line, occupy full width, and can have height and width properties. Inline-block elements do not start on a new line, allow for setting width and height, and respect vertical alignment and spacing properties.
+
+- How does virtual DOM work in React and how does it help improve performance in web applications?
+Sample Answer: The virtual DOM in React is a lightweight copy of the actual DOM that minimizes direct DOM manipulations. React updates the virtual DOM, compares it with the previous version, and selectively updates the actual DOM, leading to faster rendering and performance improvement.
+
+- What is the main difference between synchronous and asynchronous programming in Node.js and when would you use each?
+Sample Answer: Synchronous programming in Node.js executes code sequentially, blocking further execution until the current operation is complete. Asynchronous programming allows non-sequential execution, ideal for I/O-bound tasks that do not block the event loop, enhancing overall application performance. Use synchronous programming for CPU-bound tasks or when the order of execution matters, and asynchronous programming for handling I/O-bound operations or concurrent tasks.
