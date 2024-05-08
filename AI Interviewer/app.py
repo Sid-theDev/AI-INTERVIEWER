@@ -103,7 +103,7 @@ def answer_call_back():
     with get_openai_callback() as cb:
         # user input
         human_answer = st.session_state.answer
-        user_input = human_answer  # Renamed variable to avoid conflict
+        user_input = human_answer  
         st.session_state.jd_history.append(
             Message("human", user_input)
         )
@@ -130,7 +130,7 @@ if jd:
         guidline = st.button("Show me interview guideline!")
     chat_placeholder = st.container()
     answer_placeholder = st.container()
-    # If submit email address, get interview feedback immediately
+
     if guidline:
         st.write(st.session_state.jd_guideline)
     if feedback:
